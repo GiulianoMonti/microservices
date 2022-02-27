@@ -80,7 +80,7 @@ services:
 #      - postgres
 #      - rabbitmq
 #  fraud:
-#    image: amigoscode/fraud:latest
+#    image: g/fraud:latest
 #    container_name: fraud
 #    ports:
 #      - "8081:8081"
