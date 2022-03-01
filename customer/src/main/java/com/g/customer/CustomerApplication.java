@@ -13,7 +13,7 @@ import org.springframework.context.annotation.PropertySources;
 )
 //@EnableEurekaClient
 //@EnableFeignClients(
-//        basePackages = "com.amigoscode.clients"
+//        basePackages = "com.g.clients"
 //)
 @PropertySources({
 //        @PropertySource("classpath:clients-${spring.profiles.active}.properties")
